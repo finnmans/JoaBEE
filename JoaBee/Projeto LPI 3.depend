@@ -1,0 +1,266 @@
+# depslib dependency file v1.0
+1576069166 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\animation.h
+
+1576097973 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\carro.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"coniof.h"
+	"mapa.h"
+	"frames.h"
+
+1576090261 c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\coniof.h
+
+1576084274 c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\mapa.h
+
+1576083940 c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\animation.h
+
+1576084102 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\carro.h
+
+1575990875 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\coniof.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1576090261 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\coniof.h
+
+1576094500 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\main.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+
+1576084102 c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\carro.h
+
+1576097825 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"coniof.h"
+
+1576084274 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\mapa.h
+
+1576083725 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\animation.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"carro.h"
+	"coniof.h"
+
+1576097441 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\frames.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"carro.h"
+	"coniof.h"
+	"mapa.h"
+	"menu.h"
+	"ranking.h"
+
+1576107282 c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\ranking.h
+
+1576096539 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"coniof.h"
+	"ranking.h"
+	"menu.h"
+
+1576097441 c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\frames.h
+
+1576094412 c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\menu.h
+
+1576096246 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\projeto lpi 3\menu.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"carro.h"
+	"coniof.h"
+	"ranking.h"
+
+1576128235 source:c:\users\felipe\desktop\projeto lpi 3\carro.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"coniof.h"
+	"mapa.h"
+	"frames.h"
+
+1576125617 c:\users\felipe\desktop\projeto lpi 3\coniof.h
+
+1576089728 c:\users\felipe\desktop\projeto lpi 3\mapa.h
+
+1576119780 c:\users\felipe\desktop\projeto lpi 3\frames.h
+
+1576121526 source:c:\users\felipe\desktop\projeto lpi 3\coniof.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1576125617 source:c:\users\felipe\desktop\projeto lpi 3\coniof.h
+
+1576129041 source:c:\users\felipe\desktop\projeto lpi 3\frames.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"carro.h"
+	"coniof.h"
+	"mapa.h"
+	"menu.h"
+	"ranking.h"
+
+1576089732 c:\users\felipe\desktop\projeto lpi 3\carro.h
+
+1576089740 c:\users\felipe\desktop\projeto lpi 3\menu.h
+
+1576119780 c:\users\felipe\desktop\projeto lpi 3\ranking.h
+
+1576119780 source:c:\users\felipe\desktop\projeto lpi 3\main.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+
+1576126203 source:c:\users\felipe\desktop\projeto lpi 3\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"coniof.h"
+	"frames.h"
+
+1576089728 source:c:\users\felipe\desktop\projeto lpi 3\mapa.h
+
+1576089732 source:c:\users\felipe\desktop\projeto lpi 3\carro.h
+
+1576125617 source:c:\users\felipe\desktop\projeto lpi 3\menu.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"carro.h"
+	"coniof.h"
+	"ranking.h"
+
+1576125199 source:c:\users\felipe\desktop\projeto lpi 3\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"coniof.h"
+	"ranking.h"
+	"menu.h"
+
+1576128236 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\carro.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"coniof.h"
+	"mapa.h"
+	"frames.h"
+
+1576125618 c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\coniof.h
+
+1576089728 c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\mapa.h
+
+1576153784 c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\frames.h
+
+1576089732 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\carro.h
+
+1576125618 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\coniof.h
+
+1576126204 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"coniof.h"
+	"frames.h"
+
+1576089728 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\mapa.h
+
+1576153175 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\menu.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"carro.h"
+	"coniof.h"
+	"ranking.h"
+
+1576089732 c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\carro.h
+
+1576153459 c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\ranking.h
+
+1576129276 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\coniof.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1576153693 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\main.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"ranking.h"
+
+1576089740 c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\menu.h
+
+1576153703 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"coniof.h"
+	"ranking.h"
+	"menu.h"
+
+1576153543 source:c:\users\lucas\onedrive\documentos\c, c++ e c#\joabee\frames.c
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"carro.h"
+	"coniof.h"
+	"mapa.h"
+	"menu.h"
+	"ranking.h"
+
